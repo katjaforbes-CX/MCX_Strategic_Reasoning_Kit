@@ -4,6 +4,7 @@ Welcome to the **Agent Experience (AX) Strategy Map**, a framework created by **
 
 This repository contains:
 - `AX_Strategy_Map_Full.json`: A structured JSON version of the full AX Strategy Map
+- `AX_Strategy_Map_Full.md`: A markdown version of the full AX Strategy Map which you can edit for your purposes
 - `AX_Strategy_Prompt.md`: A universal prompt you can use with AI tools like ChatGPT to apply the framework to your business or professional context
 
 ---
