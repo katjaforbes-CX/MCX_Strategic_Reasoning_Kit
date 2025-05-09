@@ -1,0 +1,144 @@
+{
+  "title": "Agent Experience (AX) Strategy Map",
+  "author": "Katja Forbes",
+  "pillars": [
+    {
+      "name": "Signal Clarity",
+      "goal": "Make your business legible to machines.",
+      "areas": [
+        {
+          "area": "Structured Data",
+          "question": "Are your products, services, and offers described using machine-readable formats (e.g., JSON, schema.org)?",
+          "action": "Implement structured metadata across all digital assets. Use schema.org, OpenAPI specs, and rich snippets."
+        },
+        {
+          "area": "API Availability",
+          "question": "Can agents access real-time product, pricing, or availability data via API?",
+          "action": "Develop and expose secure, well-documented APIs for key services."
+        },
+        {
+          "area": "Data Freshness",
+          "question": "Is your information current and automatically refreshed?",
+          "action": "Automate updates via backend integrations; expose cache-busting timestamps."
+        },
+        {
+          "area": "Interoperability",
+          "question": "Can machine agents easily integrate your services with others in their ecosystem?",
+          "action": "Use industry standards for data formatting and service delivery. Avoid proprietary-only formats."
+        }
+      ]
+    },
+    {
+      "name": "Reputation via Reliability",
+      "goal": "Establish machine-readable trust.",
+      "areas": [
+        {
+          "area": "Performance Transparency",
+          "question": "Do you provide measurable service-level metrics (uptime, latency, error rates)?",
+          "action": "Publish and monitor a public status page. Include machine-readable SLAs and KPIs."
+        },
+        {
+          "area": "Compliance Signals",
+          "question": "Are you broadcasting your regulatory compliance or certifications in a verifiable format?",
+          "action": "Digitally certify ISO, ESG, GDPR, etc. via blockchain or verifiable credentials."
+        },
+        {
+          "area": "Anomaly Detection",
+          "question": "Can your systems identify unusual or potentially fraudulent agent behaviours?",
+          "action": "Implement behavioral baselines and pattern monitoring for agent interactions."
+        },
+        {
+          "area": "Feedback Loops",
+          "question": "Are your reviews and ratings agent-digestible (e.g., from verified sources, structured data)?",
+          "action": "Integrate third-party review signals via APIs (e.g., Trustpilot, Glassdoor, G2). Ensure they\u2019re machine-readable."
+        }
+      ]
+    },
+    {
+      "name": "Intent Translation",
+      "goal": "Align your offering with machine priorities.",
+      "areas": [
+        {
+          "area": "Semantic Clarity",
+          "question": "Can agents understand your value prop without human interpretation?",
+          "action": "Use NLP-optimized descriptions, semantic tagging, and explicit benefit statements."
+        },
+        {
+          "area": "Matchmaking Compatibility",
+          "question": "Can your services be matched against agent queries and preferences?",
+          "action": "Adopt common taxonomies, intent mapping, and digital twin technology."
+        },
+        {
+          "area": "Dynamic Customization",
+          "question": "Can you adapt offers based on agent-level data inputs?",
+          "action": "Use adaptive pricing models, rule-based personalization, and conditional offers."
+        },
+        {
+          "area": "Trust Signals",
+          "question": "Are your values and differentiators quantifiable and comparable?",
+          "action": "Express differentiators in metrics, not adjectives\u2014e.g., \u201c12% faster delivery\u201d not \u201cworld-class service.\u201d"
+        }
+      ]
+    },
+    {
+      "name": "Agent Engagement Architecture",
+      "goal": "Design your systems for machine interaction patterns.",
+      "areas": [
+        {
+          "area": "Authentication & Security",
+          "question": "Can agents securely authenticate and maintain session state?",
+          "action": "Implement OAuth 2.0, API keys, and agent identity verification. Consider zero-knowledge proofs for sensitive operations."
+        },
+        {
+          "area": "Rate Limiting & Resource Allocation",
+          "question": "Are you prepared for variable machine traffic patterns and resource demands?",
+          "action": "Design tiered access models with adaptive rate limits. Implement graceful degradation protocols."
+        },
+        {
+          "area": "Learning Integration",
+          "question": "Can your systems learn from agent interactions to improve offerings?",
+          "action": "Deploy interaction analytics, implement A/B testing for agent preferences, and build feedback mechanisms specific to agent behavior patterns."
+        },
+        {
+          "area": "Decision Transparency",
+          "question": "Can agents understand why specific recommendations or decisions were made?",
+          "action": "Provide decision trees or confidence scores alongside recommendations. Implement explainable AI principles."
+        }
+      ]
+    }
+  ],
+  "action_grid_example": [
+    [
+      "Pillar",
+      "Priority Area",
+      "Current State",
+      "Goal State",
+      "Owner",
+      "Timeline"
+    ],
+    [
+      "Signal Clarity",
+      "Product Metadata",
+      "Manual, inconsistent",
+      "Structured, schema.org-compliant",
+      "[Name]",
+      "Q2"
+    ],
+    [
+      "Reputation",
+      "Performance Metrics",
+      "Hidden in ops",
+      "Public + machine-readable",
+      "[Name]",
+      "Q3"
+    ],
+    [
+      "Intent Translation",
+      "Value Prop Tagging",
+      "Brand-first",
+      "Logic-first (metrics-based)",
+      "[Name]",
+      "Q4"
+    ]
+  ]
+}
