@@ -45,7 +45,7 @@ To apply the AX Strategy Map to your own business, follow these simple steps:
 
 ## Who Should Use This?
 
-- Product teams preparing for agent-led marketplaces
+- CX & Product teams preparing for agent-led marketplaces
 - Founders and entrepreneurs designing for AI-era discoverability
 - Marketing and CX professionals improving digital machine-readiness
 - Anyone interested in making their business machine-friendly
