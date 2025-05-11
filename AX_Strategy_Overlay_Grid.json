@@ -1,0 +1,86 @@
+[
+  {
+    "Pillar": "Signal Clarity",
+    "Area": "Structured Data",
+    "Phase": "Foundation",
+    "Maturity Level": "Level 1",
+    "Sample Action": "Implement basic schema.org markup"
+  },
+  {
+    "Pillar": "Signal Clarity",
+    "Area": "API Availability",
+    "Phase": "Foundation",
+    "Maturity Level": "Level 1",
+    "Sample Action": "Develop initial read-only APIs"
+  },
+  {
+    "Pillar": "Reputation via Reliability",
+    "Area": "Authentication & Security",
+    "Phase": "Foundation",
+    "Maturity Level": "Level 1",
+    "Sample Action": "OAuth 2.0 or API key implementation"
+  },
+  {
+    "Pillar": "Reputation via Reliability",
+    "Area": "Performance Transparency",
+    "Phase": "Foundation",
+    "Maturity Level": "Level 1",
+    "Sample Action": "Create public uptime/latency dashboard"
+  },
+  {
+    "Pillar": "Reputation via Reliability",
+    "Area": "Compliance Signals",
+    "Phase": "Differentiation",
+    "Maturity Level": "Level 2",
+    "Sample Action": "Use verifiable credentials (e.g., ISO, GDPR)"
+  },
+  {
+    "Pillar": "Intent Translation",
+    "Area": "Semantic Clarity",
+    "Phase": "Differentiation",
+    "Maturity Level": "Level 2",
+    "Sample Action": "NLP-friendly product descriptions"
+  },
+  {
+    "Pillar": "Intent Translation",
+    "Area": "Trust Signals",
+    "Phase": "Differentiation",
+    "Maturity Level": "Level 2",
+    "Sample Action": "Quantified differentiators (e.g., '12% faster')"
+  },
+  {
+    "Pillar": "Signal Clarity",
+    "Area": "Interoperability",
+    "Phase": "Ecosystem",
+    "Maturity Level": "Level 3",
+    "Sample Action": "Adopt open standards and taxonomies"
+  },
+  {
+    "Pillar": "Agent Engagement Architecture",
+    "Area": "Rate Limiting & Resource Allocation",
+    "Phase": "Ecosystem",
+    "Maturity Level": "Level 3",
+    "Sample Action": "Graceful degradation protocols"
+  },
+  {
+    "Pillar": "Agent Engagement Architecture",
+    "Area": "Learning Integration",
+    "Phase": "Optimization",
+    "Maturity Level": "Level 4",
+    "Sample Action": "A/B test agent pathways and personalization"
+  },
+  {
+    "Pillar": "Agent Engagement Architecture",
+    "Area": "Decision Transparency",
+    "Phase": "Optimization",
+    "Maturity Level": "Level 4",
+    "Sample Action": "Expose confidence scores and decision logic"
+  },
+  {
+    "Pillar": "Signal Clarity",
+    "Area": "Data Freshness",
+    "Phase": "Optimization",
+    "Maturity Level": "Level 4",
+    "Sample Action": "Automated, real-time data syncing and cache busting"
+  }
+]
