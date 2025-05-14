@@ -1,0 +1,59 @@
+{
+  "title": "Machine Customer Persona Template",
+  "sliders": [
+    {
+      "name": "Autonomy",
+      "description": "Level of independent decision-making (from fully human-directed to fully autonomous)"
+    },
+    {
+      "name": "Decision Transparency",
+      "description": "Degree to which the machine\u2019s choices can be explained or audited"
+    },
+    {
+      "name": "Loyalty Volatility",
+      "description": "Likelihood that the machine will switch providers based on new data or performance signals"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Machine Role",
+      "description": "Function within ecosystem, decision authority, and acting on behalf of whom?"
+    },
+    {
+      "name": "Decision Drivers",
+      "description": "Logic used to make decisions: objectives, constraints, rulesets?"
+    },
+    {
+      "name": "Information Requirements",
+      "description": "What data is required? In what format and frequency?"
+    },
+    {
+      "name": "Trust Model",
+      "description": "How is trust evaluated? Verifiability, reputation, feedback?"
+    },
+    {
+      "name": "Transaction Pattern",
+      "description": "How does the machine convert, buy, renew, or escalate?"
+    },
+    {
+      "name": "Friction Points",
+      "description": "What causes the machine to abandon or fail?"
+    },
+    {
+      "name": "Loyalty Logic",
+      "description": "What keeps this machine coming back vs switching?"
+    },
+    {
+      "name": "Visibility Layer",
+      "description": "Is the machine\u2019s decision exposed to a human? Level of explainability?"
+    },
+    {
+      "name": "Ecosystem Dependencies",
+      "description": "Which systems, APIs, or external data sources are involved?"
+    },
+    {
+      "name": "Business Impact",
+      "description": "What does success look like for this machine\u2019s engagement?"
+    }
+  ]
+}
