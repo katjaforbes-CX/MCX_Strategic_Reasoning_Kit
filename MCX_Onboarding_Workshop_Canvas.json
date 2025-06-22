@@ -1,0 +1,58 @@
+{
+  "title": "MCX Onboarding Workshop Canvas",
+  "description": "A structured canvas for CX leaders to co-design onboarding strategies for machine customers. Use in workshops with CX, tech, risk, and product teams.",
+  "sections": [
+    {
+      "title": "1. Agent Types",
+      "prompts": [
+        "What kinds of machine customers might we onboard?",
+        "Examples: delegated bots, autonomous systems, API consumers, connected devices."
+      ],
+      "input_type": "text"
+    },
+    {
+      "title": "2. Permissions Mapping",
+      "prompts": [
+        "What will these agents need to do?",
+        "What data or services will they access?",
+        "What permission levels should be applied?"
+      ],
+      "input_type": "text"
+    },
+    {
+      "title": "3. Trust Signals",
+      "prompts": [
+        "How do we assess trust for each type of agent?",
+        "What historical behavior, credentials, or external validations matter?",
+        "How do we design for escalating trust over time?"
+      ],
+      "input_type": "text"
+    },
+    {
+      "title": "4. Onboarding Journey Design",
+      "prompts": [
+        "What does the onboarding flow look like for this agent?",
+        "Where do trust, authorization, and usability intersect?",
+        "How do we make this journey explainable and auditable?"
+      ],
+      "input_type": "sketch"
+    },
+    {
+      "title": "5. Risks and Controls",
+      "prompts": [
+        "What could go wrong in machine onboarding?",
+        "What control mechanisms, overrides, or fail-safes are needed?"
+      ],
+      "input_type": "text"
+    },
+    {
+      "title": "6. Next Steps and Owners",
+      "prompts": [
+        "What experiments or prototypes can we run?",
+        "Who will lead each initiative?",
+        "How will we measure success?"
+      ],
+      "input_type": "text"
+    }
+  ]
+}
