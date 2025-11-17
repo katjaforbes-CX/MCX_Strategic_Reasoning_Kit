@@ -6,7 +6,7 @@ A practical framework for designing customer experiences for machine customers a
 
 The **MCX Strategic Reasoning Kit** is a collection of frameworks created by **Katja Forbes** to help CX professionals and organizations become discoverable, trustworthy, and compatible with the growing ecosystem of **machine customers**—AI agents, autonomous buyers, and algorithmic decision-makers that search, evaluate, purchase, and manage relationships on behalf of humans or themselves.
 
-This isn't about replacing human CX. It's about **translating** your CX expertise for logic-based customers.
+This is about **translating** your CX expertise for logic-based customers.
 
 ---
 
