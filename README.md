@@ -1,68 +1,108 @@
-# AX Strategy Map – Future-Proof Your Business for AI Agents
+# Machine Customer Experience (MCX) Strategic Reasoning Kit
 
-Welcome to the **Agent Experience (AX) Strategy Map**, a framework created by **Katja Forbes** to help individuals and organizations become legible, trustworthy, and compatible with the growing ecosystem of machine customers and AI decision agents.
+A practical framework for designing customer experiences for machine customers and agentic AI—complete with strategy maps, personas, workshop canvases, and implementation prompts to help organizations future-proof their CX strategy.
 
-This repository contains:
-- `AX_Strategy_Map_Full.json`: A structured JSON version of the full AX Strategy Map
-- `AX_Strategy_Map_Full.md`: A markdown version of the full AX Strategy Map which you can edit for your purposes
-- `AX_Strategy_Prompt.md`: A universal prompt you can use with AI tools like ChatGPT to apply the framework to your business or professional context
-- `AX_Strategy_Overlay_Grid.json`:a structured overlay that maps each AX Strategy area to a phased implementation plan and corresponding maturity level, helping users operationalize the framework over time
+## What This Is
 
----
+The **MCX Strategic Reasoning Kit** is a collection of frameworks created by **Katja Forbes** to help CX professionals and organizations become discoverable, trustworthy, and compatible with the growing ecosystem of **machine customers**—AI agents, autonomous buyers, and algorithmic decision-makers that search, evaluate, purchase, and manage relationships on behalf of humans or themselves.
 
-## What is the AX Strategy Map?
-
-The **AX Strategy Map** is a four-pillar framework designed to help future-ready businesses thrive in a world where AI agents increasingly make decisions on behalf of humans. It equips you to:
-- Make your business legible to machines
-- Broadcast trust signals programmatically
-- Align your offers with machine-readable intent
-- Design for AI agent engagement patterns
+This isn't about replacing human CX. It's about **translating** your CX expertise for logic-based customers.
 
 ---
 
-## How to Use This Framework
+## What's Included
 
-To apply the AX Strategy Map to your own business, follow these simple steps:
+### Core Strategy Framework
+- **`MCX_Strategy_Map_Full.json`** — Structured JSON version of the MCX Strategy Map
+- **`MCX_Strategy_Map_Full.md`** — Markdown version you can customize
+- **`MCX_Strategy_Prompt.md`** — Universal prompt to apply the framework using ChatGPT or Claude
+- **`MCX_Strategy_Overlay_Grid.json`** — Maturity model mapping each strategy area to implementation phases
 
-1. Open an AI tool that supports file uploads (e.g., [ChatGPT](https://chat.openai.com)).
-2. Upload the `AX_Strategy_Map_Full.json` file.
-3. Copy and paste the prompt below (also available in `AX_Strategy_Prompt.md`), inserting your own business description.
+### Machine Customer Personas & Types
+- **`Machine_Customer_Type_Prompt.md`** — Prompt to identify which machine customer types you'll serve
+- **`Machine_Customer_Type_Template_With_SI...`** — Template for creating machine customer personas
+- **`b2b_agent_vp_prompt.md`** — Specific prompt for B2B agent value propositions
+- **`b2c_agent_vp_prompt.md`** — Specific prompt for B2C agent value propositions
 
----
-
-## Universal Prompt
-
-> I’ve uploaded a file called `AX_Strategy_Map_Full.json`, which outlines a framework called the Agent Experience (AX) Strategy Map.  
-> Please analyze it and help me apply it to my own business. Here's what I need:
->
-> 1. **Interpret each of the four pillars and their priority areas in plain English.**  
-> 2. **For each area, suggest specific, relevant actions tailored to my industry and goals.**  
-> 3. **Present the output as a structured table or checklist I can use to guide implementation.**
->
-> **My business/profession is:** [Insert a one-sentence description of your role or organization here. For example: “I’m a keynote speaker working with speaker bureaus,” or “I run an e-commerce fashion brand,” or “I’m building an AI-powered legaltech startup.”]  
->
-> Let’s future-proof my business for machine customers and automated decision-makers.
+### Workshop Tools
+- **`MCX_Onboarding_Workshop_Canvas.json`** — Interactive canvas for team MCX onboarding sessions
+- **`MCX_Onboarding_Workshop_Prompt.md`** — Facilitation guide for running MCX workshops
 
 ---
 
-## Who Should Use This?
+## Why This Matters
 
-- CX & Product teams preparing for agent-led marketplaces
-- Founders and entrepreneurs designing for AI-era discoverability
-- Marketing and CX professionals improving digital machine-readiness
-- Anyone interested in making their business machine-friendly
+Machine customers are already here:
+- Walmart's AI closes 70% of vendor contracts autonomously
+- HP printers self-order ink supplies
+- Perplexity AI purchases through Visa partnerships
+
+**Your next customer won't have feelings—but they'll still need trust, clarity, consistency, and value.**
+
+The MCX Strategic Reasoning Kit helps you:
+- **Make your business machine-readable** (not just mobile-friendly)
+- **Broadcast trust programmatically** (performance data > brand stories)
+- **Design for algorithmic intent** (decision trees > emotional journeys)
+- **Build for agent engagement patterns** (API reliability > seamless UX)
 
 ---
 
-## About the Author
+## How to Use It
 
-**Katja Forbes** is an award-winning CX and digital strategy leader, keynote speaker, and thought leader in ethical technology and design futures. She developed the AX Strategy Map to prepare businesses for the next evolution of customer interaction—**where machines are the customer**.
+### Quick Start: Apply the MCX Strategy Map (5 minutes)
+
+1. Open ChatGPT or Claude
+2. Upload `MCX_Strategy_Map_Full.json`
+3. Copy the prompt from `MCX_Strategy_Prompt.md` and insert your business description
+
+### Identify Your Machine Customer Types (10 minutes)
+
+1. Use `Machine_Customer_Type_Prompt.md` with your AI tool
+2. Determine which of the 5 machine customer types you'll serve:
+   - Delegated Agents
+   - Autonomous Buyers
+   - Collaborative Systems
+   - Multi-Agent Networks
+   - Intermediary Brokers
+
+### Run a Team Workshop (90 minutes)
+
+1. Use `MCX_Onboarding_Workshop_Canvas.json` for structure
+2. Follow `MCX_Onboarding_Workshop_Prompt.md` for facilitation
+3. Build shared understanding across your organization
+
+### Craft Agent Value Propositions
+
+- Use `b2b_agent_vp_prompt.md` for enterprise/procurement agents
+- Use `b2c_agent_vp_prompt.md` for consumer-facing agents
+
+---
+
+## Who This Is For
+
+- **CX professionals** preparing for machine-led decision-making
+- **Product teams** designing for agent-to-agent transactions
+- **Digital strategy leaders** future-proofing their organizations
+- **Founders** building in AI-era marketplaces
+- **Workshop facilitators** bringing MCX thinking to teams
+- **Anyone** who knows customers are evolving beyond humans
+
+---
+
+## About the Creator
+
+**Katja Forbes** is a CX strategist, keynote speaker, and author of *Machine Customers: The Evolution Has Begun* (November 2025, with Gartner foreword). With 30 years in customer experience and digital transformation, she's positioning CX professionals as natural leaders of the machine customer revolution—not victims of it.
+
+Learn more: [theCXevolutionist.ai](https://thecxevolutionist.ai)
 
 ---
 
 ## License
 
-This work is licensed under a **Creative Commons Attribution 4.0 International License**.  
-You are free to use, adapt, and share this work for both **personal and commercial purposes**, as long as you provide appropriate credit to **Katja Forbes** and link back to this repository or the original source.
+This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-[View License](https://creativecommons.org/licenses/by/4.0/)
+You're free to use, adapt, and share this framework for personal or commercial purposes—just credit Katja Forbes and link back to this repository.
+
+---
+
+**The race is on to establish category ownership. Start here.**
