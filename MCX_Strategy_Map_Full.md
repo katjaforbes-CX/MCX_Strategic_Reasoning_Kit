@@ -1,4 +1,4 @@
-# Agent Experience (AX) Strategy Map
+# Machine Customer Experience (MCX) Strategy Map
 
 ### *By Katja Forbes*
 
