@@ -1,12 +1,12 @@
-# AX Strategy Prompt
+# MCX Strategy Prompt
 
-Use this universal prompt with the AX Strategy Map JSON file and an AI assistant (like ChatGPT) to get personalized, actionable insights for your business.
+Use this universal prompt with the MCX Strategy Map JSON file and an AI assistant (like ChatGPT) to get personalized, actionable insights for your business.
 
 ---
 
 ## 📥 Prompt
 
-> I’ve uploaded a file called `AX_Strategy_Map_Full.json`, which outlines a framework called the Agent Experience (AX) Strategy Map.  
+> I’ve uploaded a file called `MCX_Strategy_Map_Full.json`, which outlines a framework called the Machine Customer Experience (MCX) Strategy Map.  
 > Please analyze it and help me apply it to my own business. Here's what I need:
 >
 > 1. **Interpret each of the four pillars and their priority areas in plain English.**  
