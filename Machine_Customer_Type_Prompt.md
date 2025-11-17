@@ -1,21 +1,21 @@
 
-# Machine Customer Persona Exploration Prompt
+# Machine Customer Type Exploration Prompt
 
-Use this prompt with the **Machine Customer Persona Template** to explore and define a machine customer for any industry. Ideal for strategy sessions, speculative design, and LLM-based simulations.
+Use this prompt with the **Machine Customer Type Template** to explore and define a machine customer for any industry. Ideal for strategy sessions, speculative design, and LLM-based simulations.
 
 ---
 
 ## Prompt: Exploring Emerging Machine Customers in Your Industry
 
 **Task:**  
-Using the Machine Customer Persona Template (with sliders and structured fields), help me explore and define a potential or emerging machine customer in the context of my industry.
+Using the Machine Customer Type Template (with sliders and structured fields), help me explore and define a potential or emerging machine customer in the context of my industry.
 
 ---
 
 ## Instructions:
 
 1. Assume this machine customer is either currently forming or will be relevant within the next 1–3 years.
-2. Populate each of the 10 sections of the persona template thoughtfully:
+2. Populate each of the 10 sections of the type template thoughtfully:
    - Ground your responses in current trends, systems, or likely future behavior.
    - Where knowledge is limited, make plausible inferences based on similar customer patterns.
 3. Rate the following sliders from 1–5 and justify each:
@@ -47,4 +47,4 @@ Using the Machine Customer Persona Template (with sliders and structured fields)
 
 ## Example Use:
 
-> “Help me explore a machine customer persona for the healthcare industry: a hospital-based procurement bot responsible for autonomously sourcing medical consumables from verified suppliers. Populate the template accordingly and assess how this changes traditional B2B sales and service approaches.”
+> “Help me explore a machine customer type for the healthcare industry: a hospital-based procurement bot responsible for autonomously sourcing medical consumables from verified suppliers. Populate the template accordingly and assess how this changes traditional B2B sales and service approaches.”
