@@ -18,15 +18,15 @@ This isn't about replacing human CX. It's about **translating** your CX expertis
 - **`MCX_Strategy_Prompt.md`** — Universal prompt to apply the framework using ChatGPT or Claude
 - **`MCX_Strategy_Overlay_Grid.json`** — Maturity model mapping each strategy area to implementation phases
 
-### Machine Customer Personas & Types
+### Machine Customer Types
 - **`Machine_Customer_Type_Prompt.md`** — Prompt to identify which machine customer types you'll serve
 - **`Machine_Customer_Type_Template_With_SI...`** — Template for creating machine customer personas
 - **`b2b_agent_vp_prompt.md`** — Specific prompt for B2B agent value propositions
 - **`b2c_agent_vp_prompt.md`** — Specific prompt for B2C agent value propositions
 
 ### Workshop Tools
-- **`MCX_Onboarding_Workshop_Canvas.json`** — Interactive canvas for team MCX onboarding sessions
-- **`MCX_Onboarding_Workshop_Prompt.md`** — Facilitation guide for running MCX workshops
+- **`MCX_Onboarding_Workshop_Canvas.json`** — Interactive canvas for MCX onboarding exploration
+- **`MCX_Onboarding_Workshop_Prompt.md`** — Prompt for exploring onboarding machine customers
 
 ---
 
@@ -35,7 +35,7 @@ This isn't about replacing human CX. It's about **translating** your CX expertis
 Machine customers are already here:
 - Walmart's AI closes 70% of vendor contracts autonomously
 - HP printers self-order ink supplies
-- Perplexity AI purchases through Visa partnerships
+- Major LLMs purchases through payment partnerships
 
 **Your next customer won't have feelings—but they'll still need trust, clarity, consistency, and value.**
 
