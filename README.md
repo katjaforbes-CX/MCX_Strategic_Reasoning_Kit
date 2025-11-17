@@ -1,6 +1,6 @@
 # Machine Customer Experience (MCX) Strategic Reasoning Kit
 
-A practical framework for designing customer experiences for machine customers and agentic AI—complete with strategy maps, personas, workshop canvases, and implementation prompts to help organizations future-proof their CX strategy.
+A practical framework for designing customer experiences for machine customers and agentic AI—complete with strategy maps, customer types, workshop canvases, and implementation prompts to help organizations future-proof their CX strategy.
 
 ## What This Is
 
